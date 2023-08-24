@@ -95,7 +95,3 @@ bash scripts/do_tpt_difftpt.sh
 ## Acknowledgements
 
 We extend our appreciation to the developers of the [CoOp/CoCoOp](https://github.com/KaiyangZhou/CoOp) and [TPT](https://github.com/azshue/TPT) project for sharing their open-source implementation and providing guidance on preparing the data.
-
-
-Stable Diffusion data augmentation:
-accelerate launch --num_cpu_threads_per_process 8 -m image_generator_R
