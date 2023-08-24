@@ -2,7 +2,6 @@ __pycache__/
 .vscode/*
 *.pth.tar
 *.pth
-*.png 
 *.jpg 
 *.pdf 
 *.txt
