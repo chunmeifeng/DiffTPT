@@ -35,10 +35,10 @@ cd DiffTPT
 4. accelerate config
 - This machine
 - multi-GPU
-- (How many machines?) 1
-- (optimize with dynamo?) NO
-- (Deepspeed?) NO
-- (FullyShardedParallel?) NO
+- (How many machines) 1
+- (optimize with dynamo) NO
+- (Deepspeed) NO
+- (FullyShardedParallel) NO
 - (MegatronLM) NO
 - (Num of GPUs) 5
 - (device ids) 0,1,2,3,4
