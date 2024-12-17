@@ -84,12 +84,13 @@ bash scripts/do_tpt_difftpt.sh
 ## Citation
 
 ```  
-  @article{feng2023diverse,
-    title={Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning},
-    author={Feng, Chun-Mei and Yu, Kai and Liu, Yong and Khan, Salman and Zuo, Wangmeng},
-    journal={arXiv preprint arXiv:2308.06038},
-    year={2023}
-    }
+@inproceedings{feng2023diverse,
+  title={Diverse data augmentation with diffusions for effective test-time prompt tuning},
+  author={Feng, Chun-Mei and Yu, Kai and Liu, Yong and Khan, Salman and Zuo, Wangmeng},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={2704--2714},
+  year={2023}
+}
 ```
 
 ## Acknowledgements
