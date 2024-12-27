@@ -16,8 +16,9 @@ Chun-Mei Feng, Yuanyang He, Jian Zou, Zhen Li, Salman Khan, Xiong Huan, Wangmeng
 
 <a href='https://arxiv.org/abs/2412.09706'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
-
-
+- [x] document update (2024/12/27)
+- [ ] code release (coming soon!)
+ 
 
 </font>
 
