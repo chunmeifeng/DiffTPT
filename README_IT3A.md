@@ -79,7 +79,7 @@ accelerate launch --num_cpu_threads_per_process 8 -m image_generator_R --data_di
 
 2. IT3A
 ```bash
-bash scripts/do_it3a.sh
+bash IT3A/scripts/do_it3a.sh
 ```
 
 ## Citation
